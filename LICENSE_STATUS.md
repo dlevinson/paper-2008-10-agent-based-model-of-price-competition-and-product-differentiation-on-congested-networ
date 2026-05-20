@@ -1,6 +1,6 @@
 # License Status: Agent-Based Model Of Price Competition And Product Differentiation On Congested Networks
 
-Generated: 2026-05-20 13:31:26 AEST
+Generated: 2026-05-20 14:46:37 AEST
 
 Recorded license/access note from the verified audit row: Author-created code license to be assigned; publisher PDF terms apply to paper reference copy; bundled Jama source retains its own terms; Sioux Falls benchmark input provenance should be noted.
 
