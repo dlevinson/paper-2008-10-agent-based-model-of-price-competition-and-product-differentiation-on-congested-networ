@@ -1,5 +1,9 @@
 # Agent-Based Model Of Price Competition And Product Differentiation On Congested Networks
 
+## Contribution
+
+This paper develops an agent-based model in which road operators choose tolls and capacity while heterogeneous travelers choose among differentiated routes. Sioux Falls experiments show that fixed-rate pricing can outperform unrestricted toll competition and that product differentiation improves welfare only under some levels of user heterogeneity.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2008-10`
