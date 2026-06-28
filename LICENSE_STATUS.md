@@ -2,12 +2,12 @@
 
 Generated: 2026-05-21 20:04:48 AEST
 
-Recorded license/access note from the verified audit row: Author-created code license to be assigned; publisher PDF terms apply to paper reference copy; bundled Jama source retains its own terms; Sioux Falls benchmark input provenance should be noted.
+Recorded license/access note from the verified audit row: mixed repository license now applies to author-created code and documentation; publisher PDF terms apply to the paper reference copy; bundled Jama source retains its own terms; Sioux Falls benchmark input provenance is preserved.
 
-Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
+The operative root `LICENSE.md` now governs the public boundary. Do not relabel third-party raw data, benchmark inputs, or the paper PDF under the repository license.
 
 ## Practical Rule
 
-- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
-- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
-- Third-party raw data and publisher PDFs are not relicensed here.
+- Author-created code receives MIT unless a file-specific note says otherwise.
+- Author-created documentation receives CC BY 4.0 unless a file-specific note says otherwise.
+- Third-party raw data, benchmark inputs, and publisher PDFs are not relicensed here.

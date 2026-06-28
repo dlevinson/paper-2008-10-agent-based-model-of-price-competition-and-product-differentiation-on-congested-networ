@@ -24,6 +24,14 @@ This paper develops an agent-based model in which road operators choose tolls an
 - Audit timestamp: 2026-05-17 12:54:07
 - Package decision: The ARC/Zhang `VOT.zip` source matches the published price-competition/product-differentiation model and includes the Sioux Falls network and OD inputs used by the Java model.
 
+## License
+
+- `LICENSE.md` applies MIT to the author-created Java source and CC BY 4.0 to
+  author-created repository documentation.
+- Bundled benchmark inputs and third-party Jama source keep their original
+  terms.
+- The paper PDF remains a reference copy and is not relicensed here.
+
 ## Public Archive Or Source Pointers
 
 - No separate public source-code archive was identified in the paper.

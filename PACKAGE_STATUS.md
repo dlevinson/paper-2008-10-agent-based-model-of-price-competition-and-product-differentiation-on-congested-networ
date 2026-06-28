@@ -7,7 +7,7 @@ Generated: 2026-05-21 20:04:48 AEST
 - Row ID: `paper-2008-10`
 - Pipeline: `UPLOADED`
 - Upload action: `upload_candidate`
-- Packaging status: `candidate_package_after_readme_review`
+- Packaging status: `candidate_package_after_license_review`
 - Rights status: `likely_clear_with_provenance`
 - Controlled access status: `none`
 - Human subjects status: `no`
@@ -21,6 +21,14 @@ Generated: 2026-05-21 20:04:48 AEST
 - Data candidates: 0
 - Archive candidates: 0
 - Review-only files: 0
+
+## License Boundary
+
+- Root `LICENSE.md` applies MIT to author-created Java source and CC BY 4.0 to
+  author-created repository documentation.
+- Benchmark inputs and bundled third-party Jama source retain their original
+  terms.
+- The paper PDF is reference-only and not relicensed.
 
 ## Upload Boundary
 
